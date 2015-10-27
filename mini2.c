@@ -2,7 +2,6 @@
 #include <string.h>
 #include <stdlib.h>
 int printmenu() {
-	system("clear");
 	int ch;
 	printf("[1].Add record of new employee\n");
 	printf("[2].Show records\n");
